@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nodo.Entities", "Nodo.Entities\Nodo.Entities.csproj", "{FBEFB302-1ED2-4DB7-8E9E-CE0F97AE6318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nodo.Web", "Nodo.Web\Nodo.Web.csproj", "{AD512D3D-3D1F-439C-B52D-590F528F69C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nodo.Web.Tests", "Nodo.Web.Tests\Nodo.Web.Tests.csproj", "{DA76C6FF-B8B1-42A8-AEBC-C6A85A4D190E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBEFB302-1ED2-4DB7-8E9E-CE0F97AE6318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBEFB302-1ED2-4DB7-8E9E-CE0F97AE6318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBEFB302-1ED2-4DB7-8E9E-CE0F97AE6318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBEFB302-1ED2-4DB7-8E9E-CE0F97AE6318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD512D3D-3D1F-439C-B52D-590F528F69C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD512D3D-3D1F-439C-B52D-590F528F69C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD512D3D-3D1F-439C-B52D-590F528F69C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD512D3D-3D1F-439C-B52D-590F528F69C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA76C6FF-B8B1-42A8-AEBC-C6A85A4D190E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA76C6FF-B8B1-42A8-AEBC-C6A85A4D190E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA76C6FF-B8B1-42A8-AEBC-C6A85A4D190E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA76C6FF-B8B1-42A8-AEBC-C6A85A4D190E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

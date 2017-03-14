@@ -1,0 +1,9 @@
+C:\Projects\Nodo\Nodo\Nodo.Entities\bin\Debug\Nodo.Entities.dll.config
+C:\Projects\Nodo\Nodo\Nodo.Entities\bin\Debug\Nodo.Entities.dll
+C:\Projects\Nodo\Nodo\Nodo.Entities\bin\Debug\Nodo.Entities.pdb
+C:\Projects\Nodo\Nodo\Nodo.Entities\bin\Debug\EntityFramework.dll
+C:\Projects\Nodo\Nodo\Nodo.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\Nodo\Nodo\Nodo.Entities\bin\Debug\EntityFramework.xml
+C:\Projects\Nodo\Nodo\Nodo.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\Nodo\Nodo\Nodo.Entities\obj\Debug\Nodo.Entities.dll
+C:\Projects\Nodo\Nodo\Nodo.Entities\obj\Debug\Nodo.Entities.pdb
